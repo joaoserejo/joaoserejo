@@ -1,8 +1,8 @@
-# 👋 Apresentação!
+# 👋 Apresentação
 
 Sou **João Paulo**, estudante de **Engenharia de Software** no **Instituto Infnet** e formado como **Técnico em Informática** pelo **IFRJ**. Gosto muito da criação de sites e do desenvolvimento de aplicações utilizando **Java**, **Python**, **HTML** e **CSS**, sempre buscando me aprimorar nas linguagens e registrar minha evolução prática aqui no GitHub.
 
-## 🌐 Conecte-se comigo
+## 🌐 Networking
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-de-oliveira-serejo-2913233b6/" target="_blank">
