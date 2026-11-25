@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a)!
+# 👋 Apresentação!
 
 Sou **João Paulo**, estudante de **Engenharia de Software** no **Instituto Infnet** e formado como **Técnico em Informática** pelo **IFRJ**. Gosto muito da criação de sites e do desenvolvimento de aplicações utilizando **Java**, **Python**, **HTML** e **CSS**, sempre buscando me aprimorar nas linguagens e registrar minha evolução prática aqui no GitHub.
 
